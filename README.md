@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohpee
-- 👀 I’m interested in ...software devs
+- 👀 I’m interested in ...software dev
 - 🌱 I’m currently learning ...web dev
 - 💞️ I’m looking to collaborate on ...web dev
 - 📫 How to reach me ...mohpee
